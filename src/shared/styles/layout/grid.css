@@ -1,0 +1,22 @@
+.container {
+    width: 100%;
+    padding: .75rem;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.w-50 {
+    width: 50% !important;
+}
+
+.w-75 {
+    width: 75% !important;
+}
+
+.m-0 {
+    margin: 0 !important;
+}
+
+.mb-1 {
+    margin-bottom: .5rem !important;
+}
